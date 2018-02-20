@@ -14,4 +14,12 @@ public class CompositeFuel {
     public int getAmountN(){
         return this.amountN;
     }
+
+    public void setAmountN(int amountN){
+        this.amountN = amountN;
+    }
+
+    public void setAmountQ(int amountQ){
+        this.amountQ = amountQ;
+    }
 }
